@@ -1,12 +1,10 @@
 # **Welcome to My Profile! 👋**
 
 <br/>
-<a href="https://github.com/AhmetColakk">
-<img  src="https://github-readme-stats.vercel.app/api?username=AhmetColakk
-&theme=dark&show_icons=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetColakk
-&theme=dark&layout=compact" />
-</a>
+
+![AhmetColakk's github stats](https://github-readme-stats.vercel.app/api?username=ahmetcolakk&show_icons=true&theme=dracula)
+![AhmetColakk's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetColakk&theme=dracula&layout=compact)
+
 <br/>
 
 ### Hi there! I'm Ahmet Çolak. Welcome to my corner of GitHub.
