@@ -2,10 +2,7 @@
 
 <br/>
 
-![AhmetColakk's github stats](https://github-readme-stats.vercel.app/api?username=ahmetcolakk&show_icons=true&theme=dracula)
-
-<br/>
-
+![AhmetColakk's github stats](https://github-readme-stats.vercel.app/api?username=ahmetcolakk&show_icons=true&theme=dracula&layout=compact)
 ![AhmetColakk's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetColakk&theme=dracula&layout=compact)
 
 <br/>
