@@ -3,7 +3,7 @@
     font-family: 'Roboto', sans-serif;
   }
 </style>
-<p style="font-family:'Lobster', cursive; font-size: 36px;">Welcome to My Profile! 👋</p>
+<p style="font-family: 'Mona Sans';">Welcome to My Profile! 👋</p>
 
 Hi there! I'm Ahmet Çolak. Welcome to my corner of GitHub.
 
