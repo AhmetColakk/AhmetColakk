@@ -4,29 +4,34 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=24&duration=3000&pause=1000&color=7B20F7&center=true&vCenter=true&random=false&width=435&lines=I'm+Ahmet;I'm+Full-Stack+Web+Developer;JavaScript;React;Next.js;MongoDB;I+love+programing...)](https://git.io/typing-svg)
 </p>
 <br/>
-
-![AhmetColakk's github stats](https://github-readme-stats.vercel.app/api?username=ahmetcolakk&show_icons=true&theme=tokyonight)
-<br/>
-
-![AhmetColakk's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetColakk&theme=tokyonight&layout=compact)
-
-<br/>
-
-
-
-
-
-
-<div>
-  <p style="float: left;">
-
-  ### <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> Hi there! I'm Ahmet Çolak. Welcome to my corner of GitHub.
-
-**I'm passionate about programing, and I love developing full-stack application. Feel free to explore my projects, and if you have any questions or just want to chat, don't hesitate to reach out!**
-  
-  </p>
-  <img src="brand.svg" alt="Your SVG Image" style="float: right;">
+<div style="display: flex;flex-direction: row;justify-content: center;">
+   <img src="https://github-readme-stats.vercel.app/api?username=ahmetcolakk&show_icons=true&theme=tokyonight" height="200px" alt="Your SVG Image" >
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetColakk&theme=tokyonight&layout=compact" height="200px"  alt="Your SVG Image" style="float: right;">
 </div>
+
+<!-- 
+![AhmetColakk's github stats](https://github-readme-stats.vercel.app/api?username=ahmetcolakk&show_icons=true&theme=tokyonight) 
+![AhmetColakk's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetColakk&theme=tokyonight&layout=compact)
+-->
+<br/>
+
+
+
+<div style="display: flex;flex-direction: row; justify-content: space-around; flex-wrap: nowrap; width: auto;">
+  <div style="width:100;">
+    
+   <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50px></picture> Hi there! I'm Ahmet Çolak. Welcome to my corner of GitHub.
+  **I'm passionate about programing, and I love developing full-stack application. 
+  Feel free to explore my projects, and if you have any questions
+  or just want to chat, don't hesitate to reach out!**
+  </div>
+  <picture>
+     <img src="brand.svg" height="200px; width: 100px;" alt="Your SVG Image" >
+   </picture>
+  
+  </div>
+ 
+
 
 
 
