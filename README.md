@@ -9,7 +9,7 @@ Hi there! I'm Ahmet Çolak. Welcome to my corner of GitHub.
 
 I'm passionate about programing, and I love developing full-stack application. Feel free to explore my projects, and if you have any questions or just want to chat, don't hesitate to reach out!
 
-<p style="font-family:'Lobster', cursive; font-size: 36px;">Connect with Me 🌐</p>
+<p style="font-family: 'Hubot Sans';">Connect with Me 🌐</p>
 Let's connect and build something amazing together. 🚀
 
 <p align="center">
