@@ -1,17 +1,37 @@
 # **Welcome to My Profile! 👋**
+<p align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=24&duration=3000&pause=1000&color=7B20F7&center=true&vCenter=true&random=false&width=435&lines=I'm+Ahmet;I'm+Full-Stack+Web+Developer;JavaScript;React;Next.js;MongoDB;I+love+programing...)](https://git.io/typing-svg)
+</p>
+<br/>
+
+![AhmetColakk's github stats](https://github-readme-stats.vercel.app/api?username=ahmetcolakk&show_icons=true&theme=tokyonight)
+<br/>
+
+![AhmetColakk's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetColakk&theme=tokyonight&layout=compact)
 
 <br/>
 
-![AhmetColakk's github stats](https://github-readme-stats.vercel.app/api?username=ahmetcolakk&show_icons=true&theme=dracula&layout=compact)
-![AhmetColakk's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetColakk&theme=dracula&layout=compact)
 
-<br/>
 
-### Hi there! I'm Ahmet Çolak. Welcome to my corner of GitHub.
+
+
+
+<div>
+  <p style="float: left;">
+
+  ### <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> Hi there! I'm Ahmet Çolak. Welcome to my corner of GitHub.
 
 **I'm passionate about programing, and I love developing full-stack application. Feel free to explore my projects, and if you have any questions or just want to chat, don't hesitate to reach out!**
+  
+  </p>
+  <img src="brand.svg" alt="Your SVG Image" style="float: right;">
+</div>
 
-## Connect with Me 🤝🏻
+
+
+
+## Contact with Me 🤝🏻
 
 Let's connect and build something amazing together. 🚀 🔥
 <br/>
@@ -26,7 +46,7 @@ Let's connect and build something amazing together. 🚀 🔥
 
 <br/>
 
-# **_Education_** 🎓
+# **_Education_** 🎓📖
 
 <br/>
 
@@ -36,7 +56,7 @@ Let's connect and build something amazing together. 🚀 🔥
   - _Institution:_ Eastern Mediterranean University
   - _Currently Pursuing_
 
-- **Master of Science (M.S.) in in Information and Communication Technologies in Education**
+- **Master of Science (M.S.) in Information and Communication Technologies in Education**
 
   - _Department:_ Computer Education and Instructional Technology
   - _Institution:_ Eastern Mediterranean University
@@ -51,7 +71,7 @@ Let's connect and build something amazing together. 🚀 🔥
 <br/>
 <br/>
 
-# **_Skills 🚀🔥_**
+# **_Skills 🚀🔥✨_**
 
 ### **Frontend**
 
