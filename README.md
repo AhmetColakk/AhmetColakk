@@ -1,8 +1,7 @@
 # **Welcome to My Profile! 👋**
 
 <br/>
-<a href="https://github.com/AhmetColakk
-">
+<a href="https://github.com/AhmetColakk">
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=AhmetColakk
 &theme=dark&show_icons=true" />
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetColakk
