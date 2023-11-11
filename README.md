@@ -1,21 +1,25 @@
-## Welcome to My Profile! 👋
+<style>
+  body {
+    font-family: 'Roboto', sans-serif;
+  }
+</style>
+<p style="font-family:'Lobster', cursive; font-size: 36px;">Welcome to My Profile! 👋</p>
 
-Hi there! I'm [Your Name]. Welcome to my corner of GitHub.
+Hi there! I'm Ahmet Çolak. Welcome to my corner of GitHub.
 
-I'm passionate about [Your Passion/Interest], and I love [Something You Love Doing]. Feel free to explore my projects, and if you have any questions or just want to chat, don't hesitate to reach out!
+I'm passionate about programing, and I love developing full-stack application. Feel free to explore my projects, and if you have any questions or just want to chat, don't hesitate to reach out!
 
-## Connect with Me 🌐
-
+<p style="font-family:'Lobster', cursive; font-size: 36px;">Connect with Me 🌐</p>
 Let's connect and build something amazing together. 🚀
 
 <p align="center">
-  <a target="_blank" href="www.linkedin.com/in/ahmet-çolak-00928429b"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=blue"></a>
+  <a target="_blank" href="https://www.linkedin.com/in/ahmet-çolak-00928429b"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=blue"></a>
   <a target="_blank" href="https://www.instagram.com/ahmettcolak46/"><img src="https://img.shields.io/badge/Instagram-Follow-purple?style=for-the-badge&logo=instagram&logoColor=B54095&color=9552CA"></a>
   <a target="_blank" href="https://www.facebook.com/Ahmetttt46/"><img src="https://img.shields.io/badge/Facebook-Add-blue?style=for-the-badge&logo=facebook&logoColor=blue"></a>
   <a target="_blank" href="mailto:pxahmetcolak@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email-c14438?style=for-the-badge&logo=gmail&logoColor=C82826&color=C82826"></a>
 </p>
 
-## Education 🎓
+<p style="font-family:'Lobster', cursive; font-size: 36px;">Education 🎓</p>
 
 - **PhD in Information and Communication Technologies in Education**
 
@@ -38,7 +42,7 @@ Let's connect and build something amazing together. 🚀
 <br/>
 <br/>
 
-## Skills 🚀
+<p style="font-family:'Lobster', cursive; font-size: 36px;">Skills 🚀</p>
 
 ### Frontend
 
