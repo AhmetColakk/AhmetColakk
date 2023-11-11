@@ -9,10 +9,10 @@ I'm passionate about [Your Passion/Interest], and I love [Something You Love Doi
 Let's connect and build something amazing together. 🚀
 
 <p align="center">
-  <a href="www.linkedin.com/in/ahmet-çolak-00928429b"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=blue"></a>
-  <a href="https://www.instagram.com/ahmettcolak46/"><img src="https://img.shields.io/badge/Instagram-Follow-purple?style=for-the-badge&logo=instagram&logoColor=B54095&color=9552CA"></a>
-  <a href="https://www.facebook.com/Ahmetttt46/"><img src="https://img.shields.io/badge/Facebook-Add-blue?style=for-the-badge&logo=facebook&logoColor=blue"></a>
-  <a href="mailto:pxahmetcolak@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email-c14438?style=for-the-badge&logo=gmail&logoColor=C82826&color=C82826"></a>
+  <a target="_blank" href="www.linkedin.com/in/ahmet-çolak-00928429b"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=blue"></a>
+  <a target="_blank" href="https://www.instagram.com/ahmettcolak46/"><img src="https://img.shields.io/badge/Instagram-Follow-purple?style=for-the-badge&logo=instagram&logoColor=B54095&color=9552CA"></a>
+  <a target="_blank" href="https://www.facebook.com/Ahmetttt46/"><img src="https://img.shields.io/badge/Facebook-Add-blue?style=for-the-badge&logo=facebook&logoColor=blue"></a>
+  <a target="_blank" href="mailto:pxahmetcolak@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email-c14438?style=for-the-badge&logo=gmail&logoColor=C82826&color=C82826"></a>
 </p>
 
 ## Education 🎓
