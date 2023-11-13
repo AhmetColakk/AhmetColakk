@@ -20,7 +20,9 @@
 <div style="display: flex;flex-direction: row; justify-content: space-around; flex-wrap: nowrap; width: auto;">
   <div style="width:100;">
     
-   <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50px></picture> Hi there! I'm Ahmet Çolak. Welcome to my corner of GitHub.
+  # <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50px></picture> Hi there! I'm Ahmet Çolak. Welcome to my corner of GitHub.
+   <br/>
+   
   **I'm passionate about programing, and I love developing full-stack application. 
   Feel free to explore my projects, and if you have any questions
   or just want to chat, don't hesitate to reach out!**
